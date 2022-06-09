@@ -4,12 +4,6 @@
 
 [https://expandingcardspj.netlify.app/](https://expandingcardspj.netlify.app/)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://i.ibb.co/dgxFJvF/Capture.png" alt="project-screenshot" width="100" height="100/">
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
